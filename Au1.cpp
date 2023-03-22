@@ -10,8 +10,10 @@ char nome[10];
 
 cout<<"Digite seu nome: ";
 cin>>nome;
+    
 cout<<"Digite sua idade: ";
 cin>>idade;
+    
 cout<<"Olá "<<nome<<" , a sua idade foi registrada, idade informada: "<<idade;
 
 
