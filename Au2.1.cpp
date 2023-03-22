@@ -32,7 +32,8 @@ int main(int argc, char const *argv[])
     case 4:
         cout<<"Simulador Finalizado.";
         break;
-
+    default:
+        cout<<"Valor invalido, simulador interrompido.";
     }
 
     return 0;
