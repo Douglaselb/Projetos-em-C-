@@ -8,8 +8,10 @@ int main(int argc, char const *argv[])
 
     printf("Informe seu nome: ");
     scanf("%s", &nome);
+    
     printf("Informe sua idade ");
     scanf("%d", &idade);
+    
     printf("Nome: %s", nome);
     printf("Idade: %d", idade);
 
